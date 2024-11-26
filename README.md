@@ -9,11 +9,14 @@ Beyond the scope of space-coding metasurfaces, space-time digital metasurfaces c
 # Results
 ---------------------------------------------------------------------------
 In the file spacetime.m, you can define your frequency, reflection angles, power associated to each channels,.... 
-In the below [figure](https://github.com/Javadio/Space_time_MS/blob/main/ig3.PNG), you can find two radiation beams with their corresponding phase and amplitude distribution. 
-<h2>Figure: Z Values Visualization</h2>
+In the below [figure](https://github.com/Javadio/Space_time_MS/blob/main/fig3.PNG), you can find two radiation beams with their corresponding phase and amplitude distribution. 
 
 <p align="center">
-  <img src="https://github.com/Javadio/Space_time_MS/blob/main/ig3.PNG" alt="Z Values" width="900">
+  <img src="https://github.com/Javadio/Space_time_MS/blob/main/fig3.PNG" alt="Z Values" width="900">
 </p>
 
 <p align="center"><b>Figure 1:</b> Directivity intensity pattern (in both linear and decibel formats) for asymmetrically oriented two-beams time-modulated metasurface pointing at $\theta = 15^{o}$ and $\theta = 65^{o}$.</p>
+
+# References
+-------------------------------------------------------------------------------------
+[A] [Shabanpour, Javad. "Full Manipulation of the Power Intensity Pattern in a Large Space‐Time Digital Metasurface: From Arbitrary Multibeam Generation to Harmonic Beam Steering Scheme." Annalen der Physik 532.10 (2020): 2000321.](<https://onlinelibrary.wiley.com/doi/full/10.1002/andp.202000321>).
